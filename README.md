@@ -1,44 +1,4 @@
-<h1 align="center">
-  <span id="letter1">H</span>
-  <span id="letter2">i</span>
-  <span id="letter3">👋,</span>
-  <span id="letter4">I</span>
-  <span id="letter5">'</span>
-  <span id="letter6">m</span>
-  <span id="letter7"> </span>
-  <span id="letter8">O</span>
-  <span id="letter9">m</span>
-  <span id="letter10">a</span>
-  <span id="letter11">i</span>
-  <span id="letter12">m</span>
-  <span id="letter13">a</span>
-  <span id="letter14"> </span>
-  <span id="letter15">S</span>
-  <span id="letter16">y</span>
-  <span id="letter17">e</span>
-  <span id="letter18">d</span>
-</h1>
-
-<style>
-  /* Animation for each letter */
-  @keyframes write {
-    from {
-      opacity: 0;
-      transform: translateY(-20px);
-    }
-    to {
-      opacity: 1;
-      transform: translateY(0);
-    }
-  }
-
-  /* Apply animation to each letter */
-  h1 span {
-    display: inline-block;
-    animation: write 0.5s ease forwards;
-    animation-delay: calc(0.1s * var(--index));
-  }
-</style>
+<h1 align="center">Hi 👋, I'm Omaima Syed </h1>
 
 <script>
   document.addEventListener('DOMContentLoaded', function () {
