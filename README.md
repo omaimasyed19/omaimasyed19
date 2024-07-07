@@ -49,12 +49,30 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
 </div>
 
-<div style="display: flex; justify-content: space-around; margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omaimasyed19&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=omaimasyed19&show_icons=true" alt="GitHub Stats" />
+<div style="display: flex; justify-content: center; align-items: flex-start; gap: 10px; margin-top: 20px;">
+  <!-- GitHub Top Languages Card -->
+  <div style="flex: 1;">
+    <a href="https://github.com/omaimasyed19">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omaimasyed19&layout=compact&theme=dark" alt="Top Languages" />
+    </a>
+  </div>
+  
+  <!-- GitHub Stats Card -->
+  <div style="flex: 1;">
+    <a href="https://github.com/omaimasyed19">
+      <img src="https://github-readme-stats.vercel.app/api?username=omaimasyed19&show_icons=true&theme=dark" alt="GitHub Stats" />
+    </a>
+  </div>
+
+  <!-- GitHub Streak Stats -->
+  <div style="flex: 1;">
+    <a href="https://github.com/omaimasyed19">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=omaimasyed19&theme=dark" alt="GitHub Streak" />
+    </a>
+  </div>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omaimasyed19" alt="GitHub Streak" />
-</div>
+
+
+
 
