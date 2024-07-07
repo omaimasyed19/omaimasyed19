@@ -39,7 +39,7 @@
   <a href="https://instagram.com/umymasyed_" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://youtube.com/c/code_with_usyed" target="_blank">
+  <a href="https://youtube.com/c/@code_with_usyed" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
   </a>
 </div>
