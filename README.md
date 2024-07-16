@@ -1,6 +1,15 @@
-<img src='banner.png' width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h1 align="center">Hi 👋, I'm Umyma Syed </h1>
+<img src='banner.png' width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+
+
+
+
+<h1 align="center">Hi 👋, I'm Umyma Syed</h1>
+
 
 
 
@@ -27,7 +36,7 @@
   <li>🌱 I’m currently learning <strong>React.js</strong></li>
   <li>💬 Ask me about <strong>JavaScript, HTML, CSS</strong></li>
   <li>📫 How to reach me: <strong>syedomaima19@gmail.com</strong></li>
-  <li>⚡ Fun fact: <strong>I can write JavaScript faster than I can drink coffee!</strong></li>
+  <li>⚡ Fun fact: <strong>I can write Code faster than I can drink coffee!</strong></li>
 </ul>
 
 <h3 align="center">Connect with me:</h3>
@@ -56,34 +65,46 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-
 </p>
 
-<div style="display: flex; justify-content: center; align-items: flex-start; gap: 10px; margin-top: 20px;">
-  <!-- GitHub Top Languages Card -->
+<!--<div style="display: flex; justify-content: center; align-items: flex-start; gap: 10px; margin-top: 20px;">
+   GitHub Top Languages Card 
   <div style="flex: 1;">
     <a href="https://github.com/omaimasyed19">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omaimasyed19&layout=compact&theme=dark" alt="Top Languages" />
     </a>
   </div>
-  
-  <!-- GitHub Stats Card -->
+   
+   GitHub Stats Card 
   <div style="flex: 1;">
     <a href="https://github.com/omaimasyed19">
       <img src="https://github-readme-stats.vercel.app/api?username=omaimasyed19&show_icons=true&theme=dark" alt="GitHub Stats" />
     </a>
-  </div>
-
+  </div> 
+-->
   <!-- GitHub Streak Stats -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
   
-  <div style="flex: 1;">
-    <a href="https://github.com/omaimasyed19">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=omaimasyed19&theme=dark" alt="GitHub Streak" />
-    </a>
-  </div>
-</div>
+ <p align="center"><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=omaimasyed19&theme=android-dark" alt="omaimasyed19"/></p>
+ 
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h3 align="center"> Umyma Syed's Github Statistics</h3>
+
+<div align="center">
+<a href="https://github.com/omaimasyed19">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=omaimasyed19&theme=github_dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omaimasyed19&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omaimasyed19&theme=github_dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=omaimasyed19&theme=github_dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omaimasyed19&theme=github_dark" height="180em" />
+  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=omaimasyed19&theme=github-dark" style="width:90%; height:100%;"/> <br>
 
 
 
