@@ -1,3 +1,5 @@
+<img src='Technology LinkedIn Banner in Black Blue Simple Style.png' width="100%">
+
 <h1 align="center">Hi 👋, I'm Omaima Syed </h1>
 
 
