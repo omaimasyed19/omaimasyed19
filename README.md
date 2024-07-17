@@ -103,9 +103,9 @@
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-
+<!--
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=omaimasyed19&theme=github-dark" style="width:90%; height:100%;"/> <br>
-
+-->
 
 
 
