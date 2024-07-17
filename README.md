@@ -31,6 +31,13 @@
 
 
 
+
+
+
+
+
+
+
 <ul>
   <li>🔭 I’m currently working on <strong>Fortify App</strong></li>
   <li>🌱 I’m currently learning <strong>React.js</strong></li>
@@ -46,6 +53,12 @@
 <a href="https://instagram.com/umymasyed_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:syedomaima19@gmail.com "><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+<p align="center" >
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif">
+</p>
+
+
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center" style="color:white;">
