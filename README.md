@@ -18,7 +18,7 @@
 
 
 <div style="display: flex; justify-content: center;">
-  <img src="https://komarev.com/ghpvc/?username=omaimasyed19&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=omaimasyed19&label=Profile%20views&color=blue&style=flat" alt="Profile views" />
 </div>
 
 
