@@ -18,15 +18,6 @@
   </a>
 </div>
 
-
-
-
-
-
-
-
-
-
 <ul>
   <li>🔭 I’m currently working on <strong>Fortify App</strong></li>
   <li>🌱 I’m currently learning <strong>React.js</strong></li>
