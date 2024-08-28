@@ -7,7 +7,6 @@
 <div style="display: flex; justify-content: center;">
   
   <img src="https://komarev.com/ghpvc/?username=omaimasyed19&label=Profile%20views&color=blue&style=flat" alt="Profile views" />
-  
 </div>
 <div align="center">
   <a href="https://twitter.com/umymasyed_" target="_blank">
