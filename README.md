@@ -11,7 +11,6 @@
     <img src="https://img.shields.io/twitter/follow/umymasyed_?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
   </a>
 </div>
-
 <ul>
   <li>🔭 I’m currently working on <strong>Fortify App</strong></li>
   <li>🌱 I’m currently learning <strong>React.js</strong></li>
