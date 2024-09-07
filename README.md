@@ -18,7 +18,6 @@
   <li>📫 How to reach me: <strong>syedomaima19@gmail.com</strong></li>
   <li>⚡ Fun fact: <strong>I can write Code faster than I can drink coffee!</strong></li>
 </ul>
-
 <h3 align="center">Connect with me:</h3>
 <div align="center"> <a href="https://twitter.com/umymasyed_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/umyma syed" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
