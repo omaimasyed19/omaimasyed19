@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Umyma Syed</h1>
 <h3 align="center">Hi there! I'm Umyma, a passionate Frontend Developer dedicated to crafting interactive and dynamic web applications. With a keen eye for detail and a commitment to innovation, I deliver exceptional user experiences through clean, efficient, and modern code.</h3>
 <div style="display: flex; justify-content: center;">
-  <img src="https://komarev.com/ghpvc/?username=omaimasyed19&label=Profile%20views&color=blue&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=omaimasyed19&label=Profile%20views&color=blue&style=flat" alt="Profile views"/>
 </div>
 <div align="center">
   <a href="https://twitter.com/umymasyed_" target="_blank">
