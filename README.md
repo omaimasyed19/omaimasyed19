@@ -66,19 +66,19 @@
 
 
   
- <p align="center"><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=omaimasyed19&theme=android-dark" alt="omaimasyed19"/></p>
+ <p align="center"><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=umymasyed&theme=android-dark" alt="umymasyed"/></p>
  
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center"> Umyma Syed's Github Statistics</h3>
 
 <div align="center">
-<a href="https://github.com/omaimasyed19">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=omaimasyed19&theme=github_dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omaimasyed19&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omaimasyed19&theme=github_dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=omaimasyed19&theme=github_dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omaimasyed19&theme=github_dark" height="180em" />
+<a href="https://github.com/umymasyed">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=umymasyed&theme=github_dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=umymasyed&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=umymasyed&theme=github_dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=umymasyed&theme=github_dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=umymasyed&theme=github_dark" height="180em" />
   
  
 <!--
