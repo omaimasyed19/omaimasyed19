@@ -31,10 +31,45 @@
 <h3 align="center">Languages and Tools:</h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<div align="center">
 
 | **Frameworks and Libraries**                                     | **Languages**                                               | **Styling and UI**                                           |
 |:-----------------------------------------------------------------:|:-----------------------------------------------------------:|:-----------------------------------------------------------:|
 | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/><br>React</div> <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" width="40" height="40" alt="Babel"/><br>Babel</div> <div align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactrouter/reactrouter-original.svg" width="40" height="40" alt="React Router"/><br>React Router</div> | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/><br>JavaScript</div> <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/><br>HTML5</div> <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/><br>CSS3</div> | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap"/><br>Bootstrap</div> |
+## <div style="font-size: 36px; font-weight: bold; text-align: center; color: #333; font-family: 'Arial', sans-serif; text-transform: uppercase; padding-bottom: 15px;">✨ Tools & Utilities ✨</div>
+
+<div align="center">
+  <div style="background-color: #f5f5f5; padding: 20px; border-radius: 10px;">
+    <div style="margin: 10px; background-color: #d3d3d3; padding: 10px; border-radius: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/><br>Git
+    </div>
+    <div style="margin: 10px; background-color: #d3d3d3; padding: 10px; border-radius: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/><br>GitHub
+    </div>
+    <div style="margin: 10px; background-color: #d3d3d3; padding: 10px; border-radius: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40" alt="npm"/><br>npm
+    </div>
+    <div style="margin: 10px; background-color: #d3d3d3; padding: 10px; border-radius: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/><br>VS Code
+    </div>
+    <div style="margin: 10px; background-color: #d3d3d3; padding: 10px; border-radius: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" alt="Postman"/><br>Postman
+    </div>
+    <div style="margin: 10px; background-color: #d3d3d3; padding: 10px; border-radius: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="40" height="40" alt="Vite"/><br>Vite
+    </div>
+    <div style="margin: 10px; background-color: #d3d3d3; padding: 10px; border-radius: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Bash"/><br>Bash
+    </div>
+    <div style="margin: 10px; background-color: #d3d3d3; padding: 10px; border-radius: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="40" height="40" alt="Notion"/><br>Notion
+    </div>
+    <div style="margin: 10px; background-color: #d3d3d3; padding: 10px; border-radius: 8px;">
+      <img src="https://cdn-icons-png.flaticon.com/512/2222/2222073.png" width="40" height="40" alt="CMD"/><br>Cmd
+    </div>
+  </div>
+</div>
+
 <!--<div style="display: flex; justify-content: center; align-items: flex-start; gap: 10px; margin-top: 20px;">
    GitHub Top Languages Card 
   <div style="flex: 1;">
